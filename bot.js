@@ -144,7 +144,7 @@ ${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`)
       }
     })
 
-    console.log(chalk.green.bold("✅ Plugins installed!"))
+    console.log(chalk.green.bold("Kelly Mwol is working now"))
     await conn.sendMessage(
       conn.user.jid,
       await startMessage(),
